@@ -1,1 +1,2 @@
 DEVICE-realme-QP1A.190711.020-arm64-v8a
+DEVICE-Infinix-UP1A.231005.007-armeabi-v7a
